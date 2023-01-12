@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/122441156/212073989-6d882e88-80d6-4ce1-b66d-657a06e26983.png)
 Flight-Company-Database
 
 To run the project, you need to run the Main.java file
